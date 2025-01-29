@@ -20,7 +20,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
+            <h3>Implementation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
@@ -33,7 +33,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h3>Examples &rarr;</h3>
+            <h3>Examples 1 &rarr;</h3>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
